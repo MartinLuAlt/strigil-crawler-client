@@ -7,9 +7,9 @@ A lightweight Python client for interacting with the StrigilCrawler API. This to
 You can clone this repository and install the package locally:
 
 ```bash
-git clone https://github.com/your-username/strigil-crawler-client.git
+git clone https://github.com/MartinLuAlt/strigil-crawler-client
 cd strigil-crawler-client
-pip install -e .
+pip install .
 ```
 
 ## Usage
