@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+strigil_crawler_client/__init__.py
+strigil_crawler_client/client.py
+strigil_crawler_client/models.py
+strigil_crawler_client.egg-info/PKG-INFO
+strigil_crawler_client.egg-info/SOURCES.txt
+strigil_crawler_client.egg-info/dependency_links.txt
+strigil_crawler_client.egg-info/requires.txt
+strigil_crawler_client.egg-info/top_level.txt

@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: strigil-crawler-client
+Version: 0.1.0
+Summary: Python client for the Strigil web crawling API
+Author-email: Martin Lu <martinylu@berkeley.edu>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic>=2.0
+Requires-Dist: requests
+
+# StrigilCrawler Python Client
+
+A lightweight Python client for interacting with the StrigilCrawler API. This tool lets you submit a URL and a user prompt, and returns structured crawl results ready for use in LLM or RAG pipelines.
+
+## Installation
+
+You can clone this repository and install the package locally:
+
+```bash
+git clone https://github.com/your-username/strigil-crawler-client.git
+cd strigil-crawler-client
+pip install .

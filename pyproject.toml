@@ -1,0 +1,12 @@
+[project]
+name = "strigil-crawler-client"
+version = "0.1.0"
+description = "Python client for the Strigil web crawling API"
+authors = [{name = "Martin Lu", email = "martinylu@berkeley.edu"}]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = ["pydantic>=2.0", "requests"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
